@@ -183,3 +183,7 @@ def main():
 if __name__ == "__main__":
     main()
 Cum se distribuie și se folosește?Copiere simplă: Oricine poate salva codul de mai sus într-un fișier numit auditor.py.Rulare instantanee: Cu Python instalat pe sistem, se rulează simplu din terminal: python auditor.py.P2P / Din mână în mână: Scriptul poate fi trimis prin email, distribuit pe un grup de discuții sau urcat pe un repository public, permițând oricărui administrator de sistem să își verifice imediat aplicațiile web și să corecteze liniile semnalate înainte ca cineva să le exploateze.
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
+
